@@ -1,21 +1,20 @@
-<center>
+<div align="center">
 <img src="../src/assets/imgs/icon.ico" style="width: 50px;height: 50px" />
 <p style="font-size:30px;font-weight:bold;">Ip Defanger</p>
 
 This project allows you to defang some ip informations, using ip-api.com, it was created with CustomTkinter and: 
 
-<div><img src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<div align="center"><img src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/ip-address.png" alt="ip-address"/>
 </div>
-</center>
 <hr>
 
 ### Preview
-<center>
+<div align="center">
     <img src="../src/assets/imgs/app_preview.png" width="300">
     <img src="../src/assets/imgs/app_preview2.png" width="300">
-</center>
+</div>
 
 ### How to run
 
